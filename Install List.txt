@@ -1,0 +1,7 @@
+pip install chromadb
+pip install pandas
+pip install pypdf
+pip install umap
+pip install openai
+pip install langchain
+pip install sentence-transformers
